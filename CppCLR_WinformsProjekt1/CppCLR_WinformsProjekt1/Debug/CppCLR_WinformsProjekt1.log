@@ -1,0 +1,16 @@
+﻿  AssemblyInfo.cpp
+  CppCLR_WinformsProjekt.cpp
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt.cpp(23,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt.cpp(54,16): warning C4101: 'x': unreferenced local variable
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt.cpp(67,16): warning C4101: 'y': unreferenced local variable
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt.cpp(150,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt.cpp(162,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt.cpp(182,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Form1.h(311,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Form1.h(327,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Form1.h(343,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Form1.h(359,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\CppCLR_WinformsProjekt1\Form1.h(375,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CppCLR_WinformsProjekt1.vcxproj -> C:\Users\ITWORK\source\repos\CppCLR_WinformsProjekt1\Debug\CppCLR_WinformsProjekt1.exe
